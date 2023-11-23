@@ -1,0 +1,37 @@
+.df_textField{
+    .MuiInputBase-input{
+        padding: 6px 10px;
+        font-size: 13px;
+        min-width: 220px;
+    }
+}
+.select_field{
+    width: max-content;
+}
+.field{
+    margin: 0px;
+    min-width: 250px;
+}
+.select_field{
+    select{
+        padding: 6px 10px;
+        min-width: 197px;
+    }
+}
+
+.df_radioGroup{
+    .MuiTypography-body1{
+        font-size: 13px;
+        margin-left: 2px;
+    }
+    span{
+        padding: 0px !important;
+    }
+    label{
+        margin: 0px;
+        margin-left: 9px !important;
+    }
+    svg{
+        font-size: 1.2rem;
+    }
+}
